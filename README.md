@@ -146,17 +146,6 @@ For a successful download, the output looks like this:
 
 Success: https://example.com
 
-Saved to: downloaded\_pages/example\_com\_index.html
-
-
-
-The output files will be saved inside the Console App output folder under the `bin` directory:
-
-
-
-
-
-Or shorter:
 
 
 
