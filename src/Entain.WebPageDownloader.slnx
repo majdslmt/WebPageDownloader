@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Entain.WebPageDownloader.Application/Entain.WebPageDownloader.Application.csproj" />
+  <Project Path="Entain.WebPageDownloader.ConsoleApp/Entain.WebPageDownloader.ConsoleApp.csproj" />
+  <Project Path="Entain.WebPageDownloader.Domain/Entain.WebPageDownloader.Domain.csproj" />
+  <Project Path="Entain.WebPageDownloader.Infrastructure/Entain.WebPageDownloader.Infrastructure.csproj" />
+</Solution>
