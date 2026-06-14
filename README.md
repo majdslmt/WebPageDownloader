@@ -1,4 +1,4 @@
-# Entain Web Page Downloader
+# Web Page Downloader
 
 A C#/.NET console application that downloads multiple web pages asynchronously and saves each page as an HTML file.
 
